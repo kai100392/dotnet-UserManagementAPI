@@ -1,0 +1,14 @@
+# Ignore Visual Studio temporary files, build results, and
+# Include .vs directory which is causing the permission issue
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.csproj.user
+*.cache
+*.log
+
+# Ignore other unwanted files
+*.DS_Store
+*.vscode/
